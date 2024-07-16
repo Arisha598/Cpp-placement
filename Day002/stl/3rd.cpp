@@ -1,4 +1,4 @@
-//deque
+//deque same as list
 #include<iostream>
 #include<deque>
 using namespace std;
