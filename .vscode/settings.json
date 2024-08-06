@@ -29,5 +29,7 @@
         "tuple": "cpp",
         "valarray": "cpp",
         "variant": "cpp"
-    }
+    },
+    "testing.automaticallyOpenPeekViewDuringAutoRun": false,
+    "code-runner.showStopIconInEditorTitleMenu": false
 }
