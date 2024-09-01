@@ -90,7 +90,8 @@
         "stdexcept": "cpp",
         "stdfloat": "cpp",
         "typeindex": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "stack": "cpp"
     },
     "testing.automaticallyOpenPeekViewDuringAutoRun": false,
     "code-runner.showStopIconInEditorTitleMenu": false
